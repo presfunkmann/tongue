@@ -1,0 +1,10 @@
+# Personal learning data (generated during sessions)
+config.md
+assessment/*.md
+plan/*.md
+tracking/*.json
+tracking/*.md
+!tracking/README.md
+sessions/*.md
+practice/*
+!practice/README.md
